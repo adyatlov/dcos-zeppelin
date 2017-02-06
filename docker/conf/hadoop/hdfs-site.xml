@@ -21,12 +21,12 @@
 
   <property>
     <name>dfs.namenode.rpc-address.hdfs.nn1</name>
-    <value>namenode1.hdfs.mesos:50071</value>
+    <value>namenode-test-adyatlov.hdfs.mesos:50071</value>
   </property>
 
   <property>
     <name>dfs.namenode.http-address.hdfs.nn1</name>
-    <value>namenode1.hdfs.mesos:50070</value>
+    <value>namenode-test-adyatlov.hdfs.mesos:50070</value>
   </property>
 
   <property>
